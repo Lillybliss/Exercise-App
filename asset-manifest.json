@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/Exercise-App/static/js/main.ff40efbc.js",
+    "static/js/667.603c04e2.js": "/Exercise-App/static/js/667.603c04e2.js",
+    "favicon.ico": "/Exercise-App/favicon.ico",
+    "index.html": "/Exercise-App/index.html",
+    "static/media/rocket.png": "/Exercise-App/static/media/rocket.d2f3bf41d5e4515c39a9.png",
+    "static/media/bell.png": "/Exercise-App/static/media/bell.cf04af27d6a651c4b904.png",
+    "favicon-32.png": "/Exercise-App/favicon-32.png",
+    "static/media/star.png": "/Exercise-App/static/media/star.69c7138684828d68fe5a.png",
+    "static/media/heart.png": "/Exercise-App/static/media/heart.23b5c2c0eb77d50ff1b4.png",
+    "favicon-16.png": "/Exercise-App/favicon-16.png",
+    "serve.json": "/Exercise-App/serve.json",
+    "manifest.json": "/Exercise-App/manifest.json",
+    "main.ff40efbc.js.map": "/Exercise-App/static/js/main.ff40efbc.js.map",
+    "667.603c04e2.js.map": "/Exercise-App/static/js/667.603c04e2.js.map"
+  },
+  "entrypoints": [
+    "static/js/667.603c04e2.js",
+    "static/js/main.ff40efbc.js"
+  ]
+}
